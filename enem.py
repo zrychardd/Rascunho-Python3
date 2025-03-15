@@ -38,6 +38,6 @@ print(f"""
      Média de Cada student: 
       \nstudent 1 = {result_CD1}, 
       \nstudent 2 = {result_CD2}, 
-      \nCandidado 3 = {result_CD3}, 
+      \nstudent 3 = {result_CD3}, 
       \nMédia geral = {Média_geral}
     """)
